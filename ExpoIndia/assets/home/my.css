@@ -1,0 +1,62 @@
+.heading
+{
+height: 100px;
+margin:auto;
+text-align: center;
+padding-top:0;
+padding-bottom: 100px;
+position: relative;
+
+}
+
+.main_heding
+{
+	position: absolute;
+	top: 50%;
+	left:50%;
+	transform: translate(-50%,-50%);
+	z-index: 1;
+	margin:0px;
+}
+
+.bg_chr
+{
+	font-family:Goudy Stout;
+	font-size: 80px;
+	font-weight: 550;
+	color: #ccc;
+	position: absolute;
+	top: 50%;
+	left:50%;
+	margin:0px;
+	transform: translate(-50%,-50%);
+	z-index: ;
+}
+.navbar-inner{
+	background: #EC8314 !important;
+	border: 0px;
+}
+.icon-xl{
+	font-size: 20px !important;
+}
+.post-image{
+	max-height: 100%;
+	
+}
+.post-image img{
+	max-height:183px;
+	width: 100%;
+	height: 200px;
+}
+.portfolio a img{
+	height: 200px !important;
+	width: 100%;
+}
+.gallery{
+	margin: 10px;
+}
+.gallery img{
+	height: 200px;
+	width: 200px;
+	margin: 5px;
+}
